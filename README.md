@@ -11,6 +11,7 @@ Open a terminal and enter the following commands:
 This will install all the packages that the app needs
 
 <code> cd mozillaBackend
+ 
  py manage.py runserver
   </code>
   
