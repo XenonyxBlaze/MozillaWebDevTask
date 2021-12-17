@@ -10,10 +10,9 @@ Open a terminal and enter the following commands:
 
 This will install all the packages that the app needs
 
-<code> cd mozillaBackend
+<code> cd mozillaBackend</code>
  
- py manage.py runserver
-  </code>
+<code> py manage.py runserver</code>
   
 Now in a browser enter this url:
 <a href='127.0.0.1:8000'>127.0.0.1:8000</a>
